@@ -1,0 +1,37 @@
+[
+    {
+        "clsRanksManager": "RanksManagerWkNormal", 
+        "gameHelpKey": "wkrankNormal", 
+        "isGlobal": 1, 
+        "id": 101012001, 
+        "title": "周榜"
+    }, 
+    {
+        "clsRanksManager": "RanksManagerWkSkill", 
+        "gameHelpKey": "wkrankSkill", 
+        "isGlobal": 1, 
+        "id": 101012002, 
+        "title": "技巧榜"
+    }, 
+    {
+        "clsRanksManager": "RanksManagerNm", 
+        "gameHelpKey": "rank", 
+        "isGlobal": 0, 
+        "id": 101012003, 
+        "title": "总榜"
+    }, 
+    {
+        "clsRanksManager": "RanksManagerLg", 
+        "gameHelpKey": "lgrank", 
+        "isGlobal": 0, 
+        "id": 101012004, 
+        "title": "冷宫榜"
+    }, 
+    {
+        "clsRanksManager": "RanksManagerPr", 
+        "gameHelpKey": "rank", 
+        "isGlobal": 0, 
+        "id": 101012005, 
+        "title": "神魔榜"
+    }
+]

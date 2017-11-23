@@ -1,0 +1,132 @@
+[
+    {
+        "ename": "chargedGold", 
+        "id": 101008001, 
+        "name": "已充值金额"
+    }, 
+    {
+        "ename": "tester", 
+        "id": 101008002, 
+        "name": "测试员成就"
+    }, 
+    {
+        "ename": "unlockMode", 
+        "id": 101008003, 
+        "name": "关卡全解锁"
+    }, 
+    {
+        "ename": "unlockGod", 
+        "id": 101008004, 
+        "name": "神魔全解锁"
+    }, 
+    {
+        "ename": "setZhenhuanScore", 
+        "id": 101008005, 
+        "name": "设置甄嬛分数"
+    }, 
+    {
+        "ename": "setAnxiaorongScore", 
+        "id": 101008006, 
+        "name": "设置安小容分数"
+    }, 
+    {
+        "ename": "setHuafeiScore", 
+        "id": 101008007, 
+        "name": "设置华妃分数"
+    }, 
+    {
+        "ename": "setMeizhuangScore", 
+        "id": 101008008, 
+        "name": "设置眉庄分数"
+    }, 
+    {
+        "ename": "setWenyuanScore", 
+        "id": 101008009, 
+        "name": "设置文鸳分数"
+    }, 
+    {
+        "ename": "setHuanghouScore", 
+        "id": 101008010, 
+        "name": "设置皇后分数"
+    }, 
+    {
+        "ename": "setHuangziScore", 
+        "id": 101008011, 
+        "name": "设置皇子分数"
+    }, 
+    {
+        "ename": "setLGZhenhuanScore", 
+        "id": 101008012, 
+        "name": "设置冷宫甄嬛分数"
+    }, 
+    {
+        "ename": "setLGAnxiaorongScore", 
+        "id": 101008013, 
+        "name": "设置冷宫安小容分数"
+    }, 
+    {
+        "ename": "setLGHuafeiScore", 
+        "id": 101008014, 
+        "name": "设置冷宫华妃分数"
+    }, 
+    {
+        "ename": "setLGMeizhuangScore", 
+        "id": 101008015, 
+        "name": "设置冷宫眉庄分数"
+    }, 
+    {
+        "ename": "setLGWenyuanScore", 
+        "id": 101008016, 
+        "name": "设置冷宫文鸳分数"
+    }, 
+    {
+        "ename": "setLGHuanghouScore", 
+        "id": 101008017, 
+        "name": "设置冷宫皇后分数"
+    }, 
+    {
+        "ename": "unlockEnding", 
+        "id": 101008018, 
+        "name": "解锁全部结局"
+    }, 
+    {
+        "ename": "setYelanyiScore", 
+        "id": 101008019, 
+        "name": "设置叶澜依分数"
+    }, 
+    {
+        "ename": "setLGYelanyiScore", 
+        "id": 101008020, 
+        "name": "设置冷宫叶澜依分数"
+    }, 
+    {
+        "ename": "setYuyingerScore", 
+        "id": 101008021, 
+        "name": "设置余小莺分数"
+    }, 
+    {
+        "ename": "setLGYuyingerScore", 
+        "id": 101008022, 
+        "name": "设置冷宫余小莺分数"
+    }, 
+    {
+        "ename": "syncGold", 
+        "id": 101008023, 
+        "name": "同步元宝数量"
+    }, 
+    {
+        "ename": "syncHDH", 
+        "id": 101008024, 
+        "name": "同步鹤顶红"
+    }, 
+    {
+        "ename": "syncHM", 
+        "id": 101008025, 
+        "name": "同步回梦仙丹"
+    }, 
+    {
+        "ename": "syncJH", 
+        "id": 101008026, 
+        "name": "同步乾坤挪移"
+    }
+]

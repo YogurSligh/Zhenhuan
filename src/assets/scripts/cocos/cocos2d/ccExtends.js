@@ -1,0 +1,1 @@
+window.handler=function(n,e){return function(f){f.self=n,e(f)}};

@@ -1,0 +1,28 @@
+[
+    {
+        "duibai_gongju": "鸾凤和鸣 夫复何求", 
+        "name": "魔神", 
+        "duibai_moshen": "小公举 你在哪里~~", 
+        "smGuankaItemId": 101004000, 
+        "androidOrder": 1, 
+        "callback": "onEnterZhenhuan", 
+        "key": "zhenhuan", 
+        "id": 101010001, 
+        "guankaItemId": 101004012, 
+        "iOSOrder": 1, 
+        "duilian": "福"
+    }, 
+    {
+        "duibai_gongju": "琴瑟永谐千岁乐~~", 
+        "name": "容神", 
+        "duibai_moshen": "抱抱我的小公举~~", 
+        "smGuankaItemId": 101004001, 
+        "androidOrder": 2, 
+        "callback": "onEnterAnlingrong", 
+        "key": "anlingrong", 
+        "id": 101010002, 
+        "guankaItemId": 101004013, 
+        "iOSOrder": 2, 
+        "duilian": "禄"
+    }
+]

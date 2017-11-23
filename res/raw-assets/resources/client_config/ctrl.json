@@ -1,0 +1,27 @@
+[
+    {
+        "ename": "make_not_runnable", 
+        "id": 101007001, 
+        "name": "杀死程序"
+    }, 
+    {
+        "ename": "enable_charge_in_android", 
+        "id": 101007002, 
+        "name": "打开android充值开关"
+    }, 
+    {
+        "ename": "disallow_buy", 
+        "id": 101007003, 
+        "name": "disallow buy"
+    }, 
+    {
+        "ename": "allow_buy", 
+        "id": 101007004, 
+        "name": "allow_buy"
+    }, 
+    {
+        "ename": "make_runnable", 
+        "id": 101007005, 
+        "name": "允许继续玩"
+    }
+]

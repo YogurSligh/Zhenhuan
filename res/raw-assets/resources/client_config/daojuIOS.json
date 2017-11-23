@@ -1,0 +1,29 @@
+[
+    {
+        "ename": "hedinghong", 
+        "name": "鹤顶红", 
+        "price": 450, 
+        "price3": 1250, 
+        "desc": "剧毒之物 能消除任意位置人物", 
+        "id": 101001001, 
+        "icon": "daoju_hedinghong"
+    }, 
+    {
+        "ename": "huimengxiandan", 
+        "name": "回梦仙丹", 
+        "price": 240, 
+        "price3": 700, 
+        "desc": "能穿越时光的宝物 使用后撤销上一步操作", 
+        "id": 101001002, 
+        "icon": "daoju_huimengxiandan"
+    }, 
+    {
+        "ename": "qiankunnuoyi", 
+        "name": "乾坤挪移", 
+        "price": 900, 
+        "price3": 2500, 
+        "desc": "能神不知鬼不觉 交换两人位置的法宝", 
+        "id": 101001003, 
+        "icon": "daoju_qiankunnuoyi"
+    }
+]
